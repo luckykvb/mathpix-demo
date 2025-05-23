@@ -18,8 +18,8 @@ export default function MathInput() {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            'app_id': 'varun_233b6d_641b96',
-            'app_key': '9ead611d01e07391e67a62fd5ea270660ec10614bed58e901927de6130036437',
+            'app_id': '',
+            'app_key': '',
         },
         body: JSON.stringify({
             src: base64,
