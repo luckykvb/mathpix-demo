@@ -1,6 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+npx create-next-app@latest mathpix-demo
+cd mathpix-demo
+npm install react-sketch-canvas katex react-mathjax-lite
 
 First, run the development server:
 
